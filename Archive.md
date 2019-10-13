@@ -3,9 +3,9 @@
 <details>
 <summary>Texas A&M Honors Reflections Archive</summary>
 
-[Developing My Skillset](/ePortfolio/Honors%20-%20Developing%20My%20Skillset.pdf)
+[Developing My Skillset](/ePortfolio/PDFs/skillset.pdf)
 
-[Success & Sundaes Reflection](/ePortfolio/Sundaes %26 Success Reflection.pdf)
+[Success & Sundaes Reflection](/ePortfolio/PDFs/sundaes.pdf)
 
 </details>
 
