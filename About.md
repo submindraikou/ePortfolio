@@ -5,7 +5,7 @@ Hello! My name is Thomas Avila
 
 [School Email (Preferred)](mailto:thomavila@tamu.edu)
 
-[Alternate Email (Preferred)](mailto:taavila320@gmail.edu)
+[Alternate Email](mailto:taavila320@gmail.edu)
 
 #### Other links
 [Back to Home](/ePortfolio)
