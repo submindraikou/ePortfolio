@@ -1,4 +1,4 @@
-## Archive
+## Archive of Past Assignments
 
 <details>
 <summary>Texas A&M Honors Reflections Archive</summary>
