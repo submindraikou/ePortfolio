@@ -1,3 +1,5 @@
+# About me
+
 Hello! My name is Thomas Avila.
 
 I am a general engineering student at Texas A&M with plans to go into computer science. As you may notice this ePortfolio is somewhat empty but I plan on changing this during my time at A&M.
@@ -16,6 +18,6 @@ My hobbies are all computer-related, specifically video games and programming, a
 #### Navigation
 [Back to Home](/ePortfolio)
 
-[Academics](/ePortfolio/Academics)
+[Coursework](/ePortfolio/Academics)
 
 [Projects](/ePortfolio/Projects)
