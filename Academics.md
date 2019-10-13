@@ -1,4 +1,4 @@
-## Classes taken
+# Coursework
 
 ## High School - Dual Credit from LoneStar College
 Courses are listed with Texas A&M's equivalent course number except for ones without an A&M equivalent class.
@@ -59,4 +59,4 @@ For these classes I have listed the Lone Star class number.
 
 [About me](/ePortfolio/About)
 
-[Coursework](/ePortfolio/Academics)
+[Projects](/ePortfolio/Projects)
