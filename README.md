@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
 
-[/ePortfolio/About](About me)
-[/ePortfolio/Academics](Education)
+[About me](/ePortfolio/About)
+
+[Education](/ePortfolio/Academics)
