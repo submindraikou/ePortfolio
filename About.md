@@ -16,4 +16,6 @@ My hobbies are all computer-related, specifically video games and programming, a
 #### Navigation
 [Back to Home](/ePortfolio)
 
-[Academics](/ePortfolio/About)
+[Academics](/ePortfolio/Academics)
+
+[Projects](/ePortfolio/Projects)
