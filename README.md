@@ -5,3 +5,5 @@ Hello, my name is Thomas Avila and I am a current A&M engineering student. From 
 [About me](/ePortfolio/About)
 
 [Education](/ePortfolio/Academics)
+
+[Projects](/ePortfolio/Projects)
