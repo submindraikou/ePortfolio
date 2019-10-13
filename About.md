@@ -13,5 +13,7 @@ My hobbies are all computer-related, specifically video games and programming, a
 
 [GitHub](https://github.com/submindraikou)
 
-#### Other links
+#### Navigation
 [Back to Home](/ePortfolio)
+
+[Academics](/ePortfolio/About)
