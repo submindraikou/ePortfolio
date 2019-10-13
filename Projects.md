@@ -12,3 +12,10 @@
 #### Running this "game" requires Node.js. From what I remember, after going into the download directory with the cd command, you only need to run the command "node index.js" to start the local server.
 
 [GitHub Source](https://github.com/submindraikou/watch-grass-grow)
+
+#### Navigation
+[Back to Home](/ePortfolio)
+
+[About me](/ePortfolio/About)
+
+[Coursework](/ePortfolio/About)
