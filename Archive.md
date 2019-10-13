@@ -5,10 +5,8 @@
 
 [Developing My Skillset](/ePortfolio/Honors%20-%20Developing%20My%20Skillset.pdf)
 
-[Success & Sundaes Reflection](/ePortfolio/Sundaes%20&%20Success%20Reflection.pdf)
+[Success & Sundaes Reflection](/ePortfolio/Sundaes %26 Success Reflection.pdf)
 
 </details>
-
-test
 
 [Back to Home](/ePortfolio)
