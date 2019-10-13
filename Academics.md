@@ -50,5 +50,11 @@ For these classes I have listed the Lone Star class number.
 - MATH 151: Engineering Math 1
 - PHIL 282: Ethics in a Digital Age
 - UGST 181: Honors Family Meeting
+  * [Developing My Skillset](/ePortfolio/PDFs/skillset.pdf)
+  * [Success & Sundaes Reflection](/ePortfolio/PDFs/sundaes.pdf)
 
+
+#### Navigation
 [Back to Home](/ePortfolio)
+
+[About me](/ePortfolio/About)
