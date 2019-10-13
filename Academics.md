@@ -4,8 +4,7 @@
 ## High School
 <details>
 <summary>Lone Star College (Dual Credit)</summary>
-### Courses are listed with Texas A&M's equivalent course number.
-Courses listed as TRNS did not transfer to any equivalent A&M class.
+Courses are listed with Texas A&M's equivalent course number except for ones without an A&M equivalent class.
 For these classes I have listed the Lone Star class number.
 
 #### Spring 2017
