@@ -1,9 +1,6 @@
 ## Classes taken
 
-
-## High School
-<details>
-<summary>Lone Star College (Dual Credit)</summary>
+## High School - Dual Credit from LoneStar College
 Courses are listed with Texas A&M's equivalent course number except for ones without an A&M equivalent class.
 For these classes I have listed the Lone Star class number.
 
@@ -43,11 +40,7 @@ For these classes I have listed the Lone Star class number.
 - PHYS 208: Electricity and Optics
 - TRNS: PHED 1164 Intro to Exercise/Sports
 
-</details>
-
-## Undergrad
-<details>
-<summary>Texas A&M</summary>
+## Undergrad - Texas A&M
 
 #### In progress (Fall 2019)
 - CHEM 107: General Chemistry for Engineers
@@ -57,7 +50,5 @@ For these classes I have listed the Lone Star class number.
 - MATH 151: Engineering Math 1
 - PHIL 282: Ethics in a Digital Age
 - UGST 181: Honors Family Meeting
-
-</details>
 
 [Back to Home](/ePortfolio)
