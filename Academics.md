@@ -17,7 +17,7 @@ For these classes I have listed the Lone Star class number.
 - GEOL 101: Principles of Geology
 - GEOL 102: Principles of Geology Lab
 - MATH 150: Functions, Triginometry and Linear Systems
-- TRNS: COSC 1336 Programming Fundementals 1
+- TRNS: COSC 1336 Programming Fundementals 1 (Java)
 
 #### Spring 2018
 - ENGL 210: Scientific & Technical Writing
@@ -42,16 +42,22 @@ For these classes I have listed the Lone Star class number.
 
 ## Undergrad - Texas A&M
 
-#### In progress (Fall 2019)
+#### Fall 2019
 - CHEM 107: General Chemistry for Engineers
 - CHEM 117: Chemistry Lab for Engineers
-- ENGR 102: Honors Engineering Lab 1
-- ENGR 102: Honors Engineering Seminar
+- ENGR 102: Honors Engineering Lab 1 (Python)
+- ENGR 181: Honors Engineering Seminar
 - MATH 151: Engineering Math 1
 - PHIL 282: Ethics in a Digital Age
 - UGST 181: Honors Family Meeting
   * [Developing My Skillset](/ePortfolio/PDFs/skillset.pdf)
   * [Success & Sundaes Reflection](/ePortfolio/PDFs/sundaes.pdf)
+  
+#### Spring 2019
+- CSCE 121: Introduction to Programming and Design (C++)
+- MATH 251: Engineering Math III / Calculus 3
+- PHYS 206: Honors Newtonian Mechanics
+- PHYS 216: Physics Engineering Lab II
 
 
 #### Navigation
