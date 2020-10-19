@@ -23,3 +23,5 @@
 [About me](/ePortfolio/About)
 
 [Coursework](/ePortfolio/About)
+
+[Special Pictures](/ePortfolio/CoolPictures)
