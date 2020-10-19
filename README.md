@@ -10,3 +10,5 @@ Howdy! My name is Thomas Avila and I am one of the Sophomore Advisors for the Un
 [Coursework](/ePortfolio/Academics)
 
 [Projects](/ePortfolio/Projects)
+
+[Baby Pictures](/ePortfolio/BabyPictures)
