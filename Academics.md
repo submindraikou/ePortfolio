@@ -66,3 +66,5 @@ For these classes I have listed the Lone Star class number.
 [About me](/ePortfolio/About)
 
 [Projects](/ePortfolio/Projects)
+
+[Special Pictures](/ePortfolio/CoolPictures)
