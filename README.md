@@ -2,7 +2,7 @@
 
 ![CurrentImage](/Images/CurrentMe.PNG)
 
-Howdy! My name is Thomas Avila and I am one of the Sophomore Advisors for the University Honors first year experience at LechFadden. From here you can find out more about me and what I have done.
+Howdy! From here you can find out more about me and what I have done. Please don't be too harsh in judging me.
 
 [About me](/ePortfolio/About)
 
